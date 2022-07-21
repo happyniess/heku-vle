@@ -1,9 +1,6 @@
-@azaslaq  搞了个caddy v2ray tor ，默认用vless: https://github.com/mixool/v2ray
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mmpuq/v2ray-heroku-vless)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/happyniess/heku-vle)  
   
-> 提醒： 滥用可能导致账户就被BAN！！！  
-
 TIPS:
 * Heroku部署v2ray,添加了caddy和tor的支持，部署后点击View，成功应显示caddy欢迎页面 
 
